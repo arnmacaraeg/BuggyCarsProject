@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BuggyCars" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="browser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Firefox</Value>
+    </Setting>
+    <Setting Name="baseURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://buggy.justtestit.org</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">angelica_test</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestPwd1!</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
